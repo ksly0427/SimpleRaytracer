@@ -1,0 +1,22 @@
+﻿  main.cpp
+C:\Users\Ryan\Desktop\UCSD\CSE167\hw4-scratch\hw4\hw4\main.cpp(32,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ryan\Desktop\UCSD\CSE167\hw4-scratch\hw4\hw4\main.cpp(151,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ryan\Desktop\UCSD\CSE167\hw4-scratch\hw4\hw4\main.cpp(174,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ryan\Desktop\UCSD\CSE167\hw4-scratch\hw4\hw4\main.cpp(185,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ryan\Desktop\UCSD\CSE167\hw4-scratch\hw4\hw4\main.cpp(253,48): warning C4244: '=': conversion from 'T' to 'BYTE', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ryan\Desktop\UCSD\CSE167\hw4-scratch\hw4\hw4\main.cpp(254,50): warning C4244: '=': conversion from 'T' to 'BYTE', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ryan\Desktop\UCSD\CSE167\hw4-scratch\hw4\hw4\main.cpp(255,49): warning C4244: '=': conversion from 'T' to 'BYTE', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ryan\Desktop\UCSD\CSE167\hw4-scratch\hw4\hw4\main.cpp(129): warning C4715: 'intersectObj': not all control paths return a value
+  hw4.vcxproj -> C:\Users\Ryan\Desktop\UCSD\CSE167\hw4-scratch\hw4\Debug\hw4.exe

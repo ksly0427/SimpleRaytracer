@@ -1,0 +1,34 @@
+﻿  Camera.cpp
+C:\Users\Ryan\Desktop\UCSD\CSE167\hw4-scratch\hw4\hw4\variables.h(72,2): warning C4091: 'extern ': ignored on left of 'object' when no variable is declared
+  Intersection.cpp
+  main.cpp
+C:\Users\Ryan\Desktop\UCSD\CSE167\hw4-scratch\hw4\hw4\main.cpp(32,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ryan\Desktop\UCSD\CSE167\hw4-scratch\hw4\hw4\main.cpp(145,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ryan\Desktop\UCSD\CSE167\hw4-scratch\hw4\hw4\main.cpp(169,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ryan\Desktop\UCSD\CSE167\hw4-scratch\hw4\hw4\main.cpp(180,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ryan\Desktop\UCSD\CSE167\hw4-scratch\hw4\hw4\main.cpp(250,48): warning C4244: '=': conversion from 'T' to 'BYTE', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ryan\Desktop\UCSD\CSE167\hw4-scratch\hw4\hw4\main.cpp(251,50): warning C4244: '=': conversion from 'T' to 'BYTE', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ryan\Desktop\UCSD\CSE167\hw4-scratch\hw4\hw4\main.cpp(252,49): warning C4244: '=': conversion from 'T' to 'BYTE', possible loss of data
+          with
+          [
+              T=float
+          ]
+  readfile.cpp
+C:\Users\Ryan\Desktop\UCSD\CSE167\hw4-scratch\hw4\hw4\Transform.h(19,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Ryan\Desktop\UCSD\CSE167\hw4-scratch\hw4\hw4\variables.h(72,2): warning C4091: 'extern ': ignored on left of 'object' when no variable is declared
+C:\Users\Ryan\Desktop\UCSD\CSE167\hw4-scratch\hw4\hw4\readfile.cpp(182,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ryan\Desktop\UCSD\CSE167\hw4-scratch\hw4\hw4\readfile.cpp(257,66): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+main.obj : error LNK2001: unresolved external symbol __imp_FreeImage_Initialise
+main.obj : error LNK2001: unresolved external symbol __imp_FreeImage_Save
+main.obj : error LNK2001: unresolved external symbol __imp_FreeImage_DeInitialise
+main.obj : error LNK2001: unresolved external symbol __imp_FreeImage_SetPixelColor
+main.obj : error LNK2001: unresolved external symbol __imp_FreeImage_Allocate
+C:\Users\Ryan\Desktop\UCSD\CSE167\hw4-scratch\hw4\x64\Release\hw4.exe : fatal error LNK1120: 5 unresolved externals

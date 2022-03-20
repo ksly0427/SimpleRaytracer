@@ -1,0 +1,11 @@
+﻿  readfile.cpp
+C:\Users\Ryan\Desktop\UCSD\CSE167\hw4-scratch\hw4\hw4\Transform.h(19,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Ryan\Desktop\UCSD\CSE167\hw4-scratch\hw4\hw4\variables.h(72,2): warning C4091: 'extern ': ignored on left of 'object' when no variable is declared
+C:\Users\Ryan\Desktop\UCSD\CSE167\hw4-scratch\hw4\hw4\readfile.cpp(183,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ryan\Desktop\UCSD\CSE167\hw4-scratch\hw4\hw4\readfile.cpp(258,66): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  1 of 522 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    5 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  hw4.vcxproj -> C:\Users\Ryan\Desktop\UCSD\CSE167\hw4-scratch\hw4\Release\hw4.exe

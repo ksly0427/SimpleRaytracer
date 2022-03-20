@@ -1,0 +1,7 @@
+﻿  main.cpp
+main.obj : error LNK2019: unresolved external symbol __imp_FreeImage_Initialise referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_FreeImage_DeInitialise referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_FreeImage_GetVersion referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_FreeImage_GetCopyrightMessage referenced in function main
+C:\Users\Ryan\Desktop\UCSD\CSE167\hw4-scratch\hw4\hw4\\FreeImage\FreeImage.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\Ryan\Desktop\UCSD\CSE167\hw4-scratch\hw4\x64\Debug\hw4.exe : fatal error LNK1120: 4 unresolved externals
